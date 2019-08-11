@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PackageConfig",
+        "repositoryURL": "https://github.com/orta/PackageConfig.git",
+        "state": {
+          "branch": null,
+          "revision": "912c12f0eb33577124e7bf16e51830ae0af49962",
+          "version": "0.10.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

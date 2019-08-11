@@ -7,7 +7,9 @@ let package = Package(
   products: [
     .library(name: "LeftPad", targets: ["LeftPad"])
   ],
-  dependencies: [],
+  dependencies: [
+    .package(url: "https://github.com/orta/PackageConfig.git", from: "0.10.0")
+  ],
   targets: [
     .target(name: "LeftPad", dependencies: []),
     .testTarget(name: "LeftPadTests", dependencies: ["LeftPad"])
