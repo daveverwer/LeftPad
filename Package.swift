@@ -15,3 +15,14 @@ let package = Package(
     .testTarget(name: "LeftPadTests", dependencies: ["LeftPad"])
   ]
 )
+
+#if canImport(PackageConfig)
+import PackageConfig
+
+let metadata = PackageConfiguration([
+  "description": "Right justify a string, padding the left hand side with spaces",
+  "authors": [
+    [ "name": "Dave Verwer", "email": "dave@verwerservices.com" ]
+  ]
+]).write()
+#endif
