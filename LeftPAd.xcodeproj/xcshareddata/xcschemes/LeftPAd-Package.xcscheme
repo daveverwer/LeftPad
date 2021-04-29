@@ -7,7 +7,7 @@
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
           BlueprintName = "LeftPad"
-          ReferencedContainer = "container:LeftPAd.xcodeproj">
+          ReferencedContainer = "container:LeftPad.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
     </BuildActionEntries>
@@ -25,7 +25,7 @@
             BuildableIdentifier = "primary"
             BuildableName = "'$(TARGET_NAME)'"
             BlueprintName = "LeftPadTests"
-            ReferencedContainer = "container:LeftPAd.xcodeproj">
+            ReferencedContainer = "container:LeftPad.xcodeproj">
           </BuildableReference>
         </TestableReference>
     </Testables>
