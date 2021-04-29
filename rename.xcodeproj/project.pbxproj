@@ -127,8 +127,8 @@
       "OBJ_15" = {
          isa = "PBXGroup";
          children = (
-            "LeftPad::LeftPad::Product",
-            "LeftPad::LeftPadTests::Product"
+            "LeftPad::LeftPadTests::Product",
+            "LeftPad::LeftPad::Product"
          );
          name = "Products";
          path = "";
