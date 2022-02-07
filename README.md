@@ -4,6 +4,13 @@ This is a sample package to demonstrate adding additional metadata to a Package.
 
 [Try LeftPad in a Swift Playground](https://staging.swiftpackageindex.com/try-in-a-playground?dependencies=daveverwer/LeftPad)
 
+## Revision History
+
+* `1.0.0` - The original, and what many consider to be the best release.
+* `1.0.1` - Added a testimonial to the README file, increasing padding performance by 0%.
+* `1.1.0` - Oh my, what a release this was. Swift 4.2 support, bug fixes (yes, really), and so much more.
+* `2.0` - The "not really a release", release to test partial semantic version numbers.
+
 ## Testimonials
 
 > "This is a very good package." -- *Tim Cook, Apple*
