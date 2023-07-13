@@ -1,8 +1,18 @@
 # LeftPad
 
-This is a sample package to demonstrate adding additional metadata to a Package.swift file. It should never be used in production. I implemented a `leftPad` extension to `String` purely because of a little piece of [internet history](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/).
+This is a sample package to demonstrate adding additional metadata to a Package.swift file. **It should never be used in production**. I implemented a `leftPad` extension to `String` purely because of a little piece of [internet history](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/).
 
 [Try LeftPad in a Swift Playground](https://staging.swiftpackageindex.com/try-in-a-playground?dependencies=daveverwer/LeftPad)
+
+## Usage
+
+This screenshot should show you everything you need to know:
+
+![Screenshot of a Swift Playground with LeftPad in use.](/.readme-images/usage.png)
+
+## Implementation
+
+The algorithm used to pad the left hand side of a string with spaces is highly complex and delicate. If you must look, please treat the information in [the source file](/daveverwer/LeftPad/blob/master/Sources/LeftPad/LeftPad.swift) with care. With great power comes great responsibility.
 
 ## Revision History
 
