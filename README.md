@@ -12,7 +12,7 @@ This screenshot should show you everything you need to know:
 
 ## Implementation
 
-The algorithm used to pad the left hand side of a string with spaces is highly complex and delicate. If you must look, please treat the information in [the source file](Sources/LeftPad/LeftPad.swift) with care. With great power comes great responsibility.
+The algorithm used to pad the left hand side of a string with spaces is highly complex and delicate. If you must look, please treat the information in [the source file](/Sources/LeftPad/LeftPad.swift) with care. With great power comes great responsibility.
 
 ## Revision History
 
