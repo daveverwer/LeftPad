@@ -25,3 +25,20 @@ The algorithm used to pad the left hand side of a string with spaces is highly c
 ## Testimonials
 
 > "This is a very good package." -- _Tim Cook, Apple_
+
+## Testing Alerts
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
