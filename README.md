@@ -26,19 +26,8 @@ The algorithm used to pad the left hand side of a string with spaces is highly c
 
 > "This is a very good package." -- _Tim Cook, Apple_
 
-## Testing Alerts
+## How does it work?
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+I'm glad you asked! The algorithm is extremely complex and could not possibly be described in words, so here is the raw code:
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+https://github.com/daveverwer/LeftPad/blob/bbf9831354b85932e4acb972f9a851a67f7cff3c/Sources/LeftPad/LeftPad.swift#L1-L7
